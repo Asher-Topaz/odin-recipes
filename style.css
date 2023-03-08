@@ -1,6 +1,24 @@
-.header {
+.header,
+.sub-header
+
+ {
 
     background-color: black;
-    text-align: center;
-    color:rgb(66, 17, 112)
+    color:rgb(66, 17, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.header {
+
+    text-align: center;
+    font-size:100px;
+}
+
+.image {
+
+    height:auto ;
+    width: 150px; ;
+}
+
+
+
